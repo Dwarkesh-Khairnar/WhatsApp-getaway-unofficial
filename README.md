@@ -1,3 +1,6 @@
+### WhatsApp Gataway Unofficial
+- this is not a use unofficial method for work so you risk your number 
+
 ### Strucher
 
     whatsapp-gateway/
