@@ -1,7 +1,13 @@
-### WhatsApp Gataway Unofficial
+## WhatsApp Gataway Unofficial
 - this is not a use unofficial method for work so you risk your number 
 
-### Strucher
+## Tech Stacks
+   - Frontend
+       - React js
+         
+   - Backend
+       - Node js
+## Strucher
 
     whatsapp-gateway/
     ├── api/                  # Express API Backend (Vercel Serverless compatible)
