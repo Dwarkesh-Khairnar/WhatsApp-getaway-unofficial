@@ -4,6 +4,7 @@
 ## Tech Stacks
    - Frontend
        - React js
+       - TailwindCss
          
    - Backend
        - Node js
