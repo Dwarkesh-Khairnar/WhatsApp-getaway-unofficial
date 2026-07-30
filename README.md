@@ -23,3 +23,6 @@
     │   └── package.json
     ├── package.json          # Workspace root
     └── vercel.json           # Vercel deployment routing mapping
+
+## Package use
+   - @whiskeysockets/baileys
