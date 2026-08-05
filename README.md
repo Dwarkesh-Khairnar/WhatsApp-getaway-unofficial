@@ -26,3 +26,6 @@
 
 ## Package use
    - @whiskeysockets/baileys
+
+## Privention Needd.....
+   try less message (use limits)
