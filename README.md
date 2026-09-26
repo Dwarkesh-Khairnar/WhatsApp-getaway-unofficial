@@ -26,6 +26,7 @@
     └── vercel.json           # Vercel deployment routing mapping
 
 ## Run and use
+ is a two deferent server's so it's need two deferent vps
 
 ## Package use
    - @whiskeysockets/baileys
